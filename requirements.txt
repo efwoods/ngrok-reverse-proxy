@@ -1,4 +1,5 @@
 asyncio
 httpx
-os
 pyngrok
+pydantic-settings
+prometheus_client
